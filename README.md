@@ -2,7 +2,7 @@
 
 1º cd Documentos
 2º mkdir Teste_Git
-3º cd Teste_Git
+3º cd Teste_Git		
 4º git init
 5º git add .
 6º git commit -m "Primeiro Commit"
